@@ -40,6 +40,8 @@ Data Exploration and Preprocessing
 8).After encoding the 'Sex' column, non-required columns like 'Age' were dropped from the DataFrame.
 
  
+
+
 Model Training
 
 
@@ -48,6 +50,10 @@ Model Training
 2). The dataset was split into training and testing sets using train_test_split from sklearn.model_selection.
 
 3). A logistic regression model was initialized and trained on the training data using LogisticRegression from sklearn.linear_model.
+
+
+
+
 
 Model Prediction
 
